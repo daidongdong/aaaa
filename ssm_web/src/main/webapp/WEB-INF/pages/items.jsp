@@ -55,7 +55,7 @@
             <td>${item.pic}</td>
             <td>${item.createtime}</td>
             <td>${item.detail}</td>
-            <td></td>
+
         </tr>
     </c:forEach>
 </table>
